@@ -1,4 +1,4 @@
-Seleccion de modelo
+Model information
 
 https://model.obs-besancon.fr/modele_options.php
 Model version m1612
